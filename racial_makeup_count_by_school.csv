@@ -1,36 +1,316 @@
-School,Race/Ethnicity (Current),Count
-Business,American Indian or Alaska Native,1
-Business,Asian,651
-Business,Black or African American,249
-Business,Hispanic/Latino,394
-Business,Native Hawaiian or Other Pacific Islander,1
-Business,Two or More Races,140
-Business,U.S. Nonresident,92
-Business,Unknown,150
-Business,White,1420
-Computer Science,American Indian or Alaska Native,2
-Computer Science,Asian,2997
-Computer Science,Black or African American,669
-Computer Science,Hispanic/Latino,400
-Computer Science,Native Hawaiian or Other Pacific Islander,4
-Computer Science,Two or More Races,330
-Computer Science,U.S. Nonresident,392
-Computer Science,Unknown,487
-Computer Science,White,2051
-Inforamtion Science,American Indian or Alaska Native,5
-Inforamtion Science,Asian,707
-Inforamtion Science,Black or African American,586
-Inforamtion Science,Hispanic/Latino,219
-Inforamtion Science,Not Reported,1
-Inforamtion Science,Two or More Races,87
-Inforamtion Science,U.S. Nonresident,69
-Inforamtion Science,Unknown,75
-Inforamtion Science,White,367
-Journalism,American Indian or Alaska Native,1
-Journalism,Asian,18
-Journalism,Black or African American,52
-Journalism,Hispanic/Latino,41
-Journalism,Two or More Races,17
-Journalism,U.S. Nonresident,4
-Journalism,Unknown,15
-Journalism,White,249
+Year,School,Race/Ethnicity (Current),Count
+2016,Business,American Indian or Alaska Native,1
+2016,Business,Asian,546
+2016,Business,Black or African American,265
+2016,Business,Hispanic/Latino,334
+2016,Business,Native Hawaiian or Other Pacific Islander,3
+2016,Business,Two or More Races,92
+2016,Business,U.S. Nonresident,137
+2016,Business,Unknown,51
+2016,Business,White,1494
+2016,Computer Science,American Indian or Alaska Native,7
+2016,Computer Science,Asian,1610
+2016,Computer Science,Black or African American,589
+2016,Computer Science,Hispanic/Latino,417
+2016,Computer Science,Native Hawaiian or Other Pacific Islander,4
+2016,Computer Science,Two or More Races,247
+2016,Computer Science,U.S. Nonresident,336
+2016,Computer Science,Unknown,94
+2016,Computer Science,White,2480
+2016,Inforamtion Science,American Indian or Alaska Native,1
+2016,Inforamtion Science,Asian,21
+2016,Inforamtion Science,Black or African American,31
+2016,Inforamtion Science,Hispanic/Latino,9
+2016,Inforamtion Science,Not Reported,0
+2016,Inforamtion Science,Two or More Races,6
+2016,Inforamtion Science,U.S. Nonresident,3
+2016,Inforamtion Science,Unknown,2
+2016,Inforamtion Science,White,21
+2016,Journalism,American Indian or Alaska Native,1
+2016,Journalism,Asian,26
+2016,Journalism,Black or African American,66
+2016,Journalism,Hispanic/Latino,39
+2016,Journalism,Two or More Races,15
+2016,Journalism,U.S. Nonresident,6
+2016,Journalism,Unknown,8
+2016,Journalism,White,316
+2017,Business,American Indian or Alaska Native,2
+2017,Business,Asian,535
+2017,Business,Black or African American,265
+2017,Business,Hispanic/Latino,339
+2017,Business,Native Hawaiian or Other Pacific Islander,3
+2017,Business,Two or More Races,80
+2017,Business,U.S. Nonresident,141
+2017,Business,Unknown,44
+2017,Business,White,1485
+2017,Computer Science,American Indian or Alaska Native,4
+2017,Computer Science,Asian,1745
+2017,Computer Science,Black or African American,604
+2017,Computer Science,Hispanic/Latino,415
+2017,Computer Science,Native Hawaiian or Other Pacific Islander,6
+2017,Computer Science,Two or More Races,280
+2017,Computer Science,U.S. Nonresident,459
+2017,Computer Science,Unknown,91
+2017,Computer Science,White,2615
+2017,Inforamtion Science,American Indian or Alaska Native,2
+2017,Inforamtion Science,Asian,112
+2017,Inforamtion Science,Black or African American,106
+2017,Inforamtion Science,Hispanic/Latino,32
+2017,Inforamtion Science,Not Reported,0
+2017,Inforamtion Science,Two or More Races,17
+2017,Inforamtion Science,U.S. Nonresident,13
+2017,Inforamtion Science,Unknown,10
+2017,Inforamtion Science,White,84
+2017,Journalism,American Indian or Alaska Native,1
+2017,Journalism,Asian,20
+2017,Journalism,Black or African American,56
+2017,Journalism,Hispanic/Latino,44
+2017,Journalism,Two or More Races,18
+2017,Journalism,U.S. Nonresident,7
+2017,Journalism,Unknown,7
+2017,Journalism,White,306
+2018,Business,American Indian or Alaska Native,2
+2018,Business,Asian,535
+2018,Business,Black or African American,223
+2018,Business,Hispanic/Latino,314
+2018,Business,Native Hawaiian or Other Pacific Islander,2
+2018,Business,Two or More Races,91
+2018,Business,U.S. Nonresident,141
+2018,Business,Unknown,74
+2018,Business,White,1557
+2018,Computer Science,American Indian or Alaska Native,5
+2018,Computer Science,Asian,1907
+2018,Computer Science,Black or African American,587
+2018,Computer Science,Hispanic/Latino,433
+2018,Computer Science,Native Hawaiian or Other Pacific Islander,3
+2018,Computer Science,Two or More Races,311
+2018,Computer Science,U.S. Nonresident,493
+2018,Computer Science,Unknown,173
+2018,Computer Science,White,2670
+2018,Inforamtion Science,American Indian or Alaska Native,1
+2018,Inforamtion Science,Asian,210
+2018,Inforamtion Science,Black or African American,166
+2018,Inforamtion Science,Hispanic/Latino,57
+2018,Inforamtion Science,Not Reported,0
+2018,Inforamtion Science,Two or More Races,32
+2018,Inforamtion Science,U.S. Nonresident,35
+2018,Inforamtion Science,Unknown,20
+2018,Inforamtion Science,White,197
+2018,Journalism,American Indian or Alaska Native,1
+2018,Journalism,Asian,20
+2018,Journalism,Black or African American,42
+2018,Journalism,Hispanic/Latino,46
+2018,Journalism,Two or More Races,14
+2018,Journalism,U.S. Nonresident,6
+2018,Journalism,Unknown,12
+2018,Journalism,White,323
+2019,Business,American Indian or Alaska Native,2
+2019,Business,Asian,546
+2019,Business,Black or African American,222
+2019,Business,Hispanic/Latino,294
+2019,Business,Native Hawaiian or Other Pacific Islander,1
+2019,Business,Two or More Races,80
+2019,Business,U.S. Nonresident,142
+2019,Business,Unknown,87
+2019,Business,White,1527
+2019,Computer Science,American Indian or Alaska Native,6
+2019,Computer Science,Asian,1977
+2019,Computer Science,Black or African American,552
+2019,Computer Science,Hispanic/Latino,408
+2019,Computer Science,Native Hawaiian or Other Pacific Islander,3
+2019,Computer Science,Two or More Races,282
+2019,Computer Science,U.S. Nonresident,484
+2019,Computer Science,Unknown,238
+2019,Computer Science,White,2556
+2019,Inforamtion Science,American Indian or Alaska Native,1
+2019,Inforamtion Science,Asian,268
+2019,Inforamtion Science,Black or African American,207
+2019,Inforamtion Science,Hispanic/Latino,85
+2019,Inforamtion Science,Not Reported,0
+2019,Inforamtion Science,Two or More Races,46
+2019,Inforamtion Science,U.S. Nonresident,51
+2019,Inforamtion Science,Unknown,32
+2019,Inforamtion Science,White,281
+2019,Journalism,American Indian or Alaska Native,1
+2019,Journalism,Asian,22
+2019,Journalism,Black or African American,46
+2019,Journalism,Hispanic/Latino,37
+2019,Journalism,Two or More Races,16
+2019,Journalism,U.S. Nonresident,6
+2019,Journalism,Unknown,15
+2019,Journalism,White,326
+2020,Business,American Indian or Alaska Native,2
+2020,Business,Asian,543
+2020,Business,Black or African American,225
+2020,Business,Hispanic/Latino,280
+2020,Business,Native Hawaiian or Other Pacific Islander,2
+2020,Business,Two or More Races,95
+2020,Business,U.S. Nonresident,128
+2020,Business,Unknown,100
+2020,Business,White,1525
+2020,Computer Science,American Indian or Alaska Native,5
+2020,Computer Science,Asian,2047
+2020,Computer Science,Black or African American,596
+2020,Computer Science,Hispanic/Latino,450
+2020,Computer Science,Native Hawaiian or Other Pacific Islander,2
+2020,Computer Science,Two or More Races,271
+2020,Computer Science,U.S. Nonresident,413
+2020,Computer Science,Unknown,282
+2020,Computer Science,White,2459
+2020,Inforamtion Science,American Indian or Alaska Native,1
+2020,Inforamtion Science,Asian,341
+2020,Inforamtion Science,Black or African American,255
+2020,Inforamtion Science,Hispanic/Latino,98
+2020,Inforamtion Science,Not Reported,0
+2020,Inforamtion Science,Two or More Races,53
+2020,Inforamtion Science,U.S. Nonresident,60
+2020,Inforamtion Science,Unknown,43
+2020,Inforamtion Science,White,320
+2020,Journalism,American Indian or Alaska Native,1
+2020,Journalism,Asian,28
+2020,Journalism,Black or African American,36
+2020,Journalism,Hispanic/Latino,31
+2020,Journalism,Two or More Races,17
+2020,Journalism,U.S. Nonresident,3
+2020,Journalism,Unknown,13
+2020,Journalism,White,314
+2021,Business,American Indian or Alaska Native,2
+2021,Business,Asian,595
+2021,Business,Black or African American,249
+2021,Business,Hispanic/Latino,286
+2021,Business,Native Hawaiian or Other Pacific Islander,2
+2021,Business,Two or More Races,112
+2021,Business,U.S. Nonresident,98
+2021,Business,Unknown,125
+2021,Business,White,1535
+2021,Computer Science,American Indian or Alaska Native,5
+2021,Computer Science,Asian,2128
+2021,Computer Science,Black or African American,578
+2021,Computer Science,Hispanic/Latino,484
+2021,Computer Science,Native Hawaiian or Other Pacific Islander,2
+2021,Computer Science,Two or More Races,249
+2021,Computer Science,U.S. Nonresident,332
+2021,Computer Science,Unknown,347
+2021,Computer Science,White,2256
+2021,Inforamtion Science,American Indian or Alaska Native,2
+2021,Inforamtion Science,Asian,380
+2021,Inforamtion Science,Black or African American,250
+2021,Inforamtion Science,Hispanic/Latino,109
+2021,Inforamtion Science,Not Reported,0
+2021,Inforamtion Science,Two or More Races,40
+2021,Inforamtion Science,U.S. Nonresident,56
+2021,Inforamtion Science,Unknown,59
+2021,Inforamtion Science,White,328
+2021,Journalism,American Indian or Alaska Native,1
+2021,Journalism,Asian,25
+2021,Journalism,Black or African American,38
+2021,Journalism,Hispanic/Latino,31
+2021,Journalism,Two or More Races,18
+2021,Journalism,U.S. Nonresident,1
+2021,Journalism,Unknown,16
+2021,Journalism,White,316
+2022,Business,American Indian or Alaska Native,2
+2022,Business,Asian,635
+2022,Business,Black or African American,296
+2022,Business,Hispanic/Latino,305
+2022,Business,Native Hawaiian or Other Pacific Islander,1
+2022,Business,Two or More Races,120
+2022,Business,U.S. Nonresident,84
+2022,Business,Unknown,134
+2022,Business,White,1467
+2022,Computer Science,American Indian or Alaska Native,3
+2022,Computer Science,Asian,2332
+2022,Computer Science,Black or African American,630
+2022,Computer Science,Hispanic/Latino,443
+2022,Computer Science,Native Hawaiian or Other Pacific Islander,2
+2022,Computer Science,Two or More Races,264
+2022,Computer Science,U.S. Nonresident,282
+2022,Computer Science,Unknown,365
+2022,Computer Science,White,2000
+2022,Inforamtion Science,American Indian or Alaska Native,2
+2022,Inforamtion Science,Asian,466
+2022,Inforamtion Science,Black or African American,328
+2022,Inforamtion Science,Hispanic/Latino,141
+2022,Inforamtion Science,Not Reported,0
+2022,Inforamtion Science,Two or More Races,55
+2022,Inforamtion Science,U.S. Nonresident,52
+2022,Inforamtion Science,Unknown,75
+2022,Inforamtion Science,White,317
+2022,Journalism,American Indian or Alaska Native,1
+2022,Journalism,Asian,28
+2022,Journalism,Black or African American,44
+2022,Journalism,Hispanic/Latino,38
+2022,Journalism,Two or More Races,19
+2022,Journalism,U.S. Nonresident,1
+2022,Journalism,Unknown,19
+2022,Journalism,White,276
+2023,Business,American Indian or Alaska Native,2
+2023,Business,Asian,614
+2023,Business,Black or African American,261
+2023,Business,Hispanic/Latino,348
+2023,Business,Native Hawaiian or Other Pacific Islander,2
+2023,Business,Two or More Races,126
+2023,Business,U.S. Nonresident,82
+2023,Business,Unknown,121
+2023,Business,White,1393
+2023,Computer Science,American Indian or Alaska Native,1
+2023,Computer Science,Asian,2670
+2023,Computer Science,Black or African American,662
+2023,Computer Science,Hispanic/Latino,459
+2023,Computer Science,Native Hawaiian or Other Pacific Islander,2
+2023,Computer Science,Two or More Races,294
+2023,Computer Science,U.S. Nonresident,314
+2023,Computer Science,Unknown,423
+2023,Computer Science,White,1967
+2023,Inforamtion Science,American Indian or Alaska Native,5
+2023,Inforamtion Science,Asian,617
+2023,Inforamtion Science,Black or African American,479
+2023,Inforamtion Science,Hispanic/Latino,179
+2023,Inforamtion Science,Not Reported,0
+2023,Inforamtion Science,Two or More Races,70
+2023,Inforamtion Science,U.S. Nonresident,55
+2023,Inforamtion Science,Unknown,75
+2023,Inforamtion Science,White,373
+2023,Journalism,American Indian or Alaska Native,1
+2023,Journalism,Asian,26
+2023,Journalism,Black or African American,45
+2023,Journalism,Hispanic/Latino,34
+2023,Journalism,Two or More Races,18
+2023,Journalism,U.S. Nonresident,3
+2023,Journalism,Unknown,13
+2023,Journalism,White,261
+2024,Business,American Indian or Alaska Native,1
+2024,Business,Asian,651
+2024,Business,Black or African American,249
+2024,Business,Hispanic/Latino,394
+2024,Business,Native Hawaiian or Other Pacific Islander,1
+2024,Business,Two or More Races,140
+2024,Business,U.S. Nonresident,92
+2024,Business,Unknown,150
+2024,Business,White,1420
+2024,Computer Science,American Indian or Alaska Native,2
+2024,Computer Science,Asian,2997
+2024,Computer Science,Black or African American,669
+2024,Computer Science,Hispanic/Latino,400
+2024,Computer Science,Native Hawaiian or Other Pacific Islander,4
+2024,Computer Science,Two or More Races,330
+2024,Computer Science,U.S. Nonresident,392
+2024,Computer Science,Unknown,487
+2024,Computer Science,White,2051
+2024,Inforamtion Science,American Indian or Alaska Native,5
+2024,Inforamtion Science,Asian,707
+2024,Inforamtion Science,Black or African American,586
+2024,Inforamtion Science,Hispanic/Latino,219
+2024,Inforamtion Science,Not Reported,1
+2024,Inforamtion Science,Two or More Races,87
+2024,Inforamtion Science,U.S. Nonresident,69
+2024,Inforamtion Science,Unknown,75
+2024,Inforamtion Science,White,367
+2024,Journalism,American Indian or Alaska Native,1
+2024,Journalism,Asian,18
+2024,Journalism,Black or African American,52
+2024,Journalism,Hispanic/Latino,41
+2024,Journalism,Two or More Races,17
+2024,Journalism,U.S. Nonresident,4
+2024,Journalism,Unknown,15
+2024,Journalism,White,249
